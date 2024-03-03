@@ -2,7 +2,16 @@
 ***
 ## Project Description
 I have created a basic snake game for fun using Python and PyGame. In the next part I will train an
-AI to lear how to play this snake game. 
+AI to lear how to play this snake game.
+
+## Prerequisites
+Inorder to run this game you need to have Python and PyGame installed on your system. You can install
+the desired version from [python](https://www.python.org/downloads/)
+
+After Python is installed, run the following command to get PyGame
+```commandline
+pip install pygame
+```
 
 ## How to install and use this project
 This project is not an installable package. To play this snake game just clone the repository and
